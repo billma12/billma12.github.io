@@ -1,2 +1,1 @@
-# billma12.github.io
-github pages
+https://billma12.github.io
